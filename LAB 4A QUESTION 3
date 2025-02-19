@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>For Loop Example</title>
+    <title>Lab 4a Question 3: For Loop Example</title>
 </head>
 <body>
     <p id="demo"></p>
